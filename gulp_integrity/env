@@ -41,4 +41,6 @@ npm add @babel/register , npm add @babel/core
  yarn add gulp-bro -D
  yarn add babelify -D
 
-14
+14. rkddml 6.0
+ yarn add gulp-gh-pages
+ remoteUrl: 기본적으로 내 프로젝트의 URL이 될것임 -> console에서 git remote -v 로 확인
