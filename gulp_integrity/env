@@ -40,3 +40,5 @@ npm add @babel/register , npm add @babel/core
 13. 강의 5.0
  yarn add gulp-bro -D
  yarn add babelify -D
+
+14
